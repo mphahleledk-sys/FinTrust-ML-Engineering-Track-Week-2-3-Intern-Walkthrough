@@ -1,4 +1,4 @@
-# FinTrust-ML-Engineering-Track-Week-2-Intern-Walkthrough
+# FinTrust-ML-Engineering-Track-Intern-Walkthrough
 
 AnalystLab Africa Experience Lab
 FinTrust Digital Bank — Project Brief
